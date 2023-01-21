@@ -1,4 +1,4 @@
-module github.com/crypto-buzz/lib-ginutil
+module github.com/ivandralex/lib-ginutil
 
 go 1.18
 
