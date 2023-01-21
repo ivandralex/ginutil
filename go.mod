@@ -1,4 +1,4 @@
-module github.com/ivandralex/lib-ginutil
+module github.com/ivandralex/ginutil
 
 go 1.18
 
